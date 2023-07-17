@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Python\Курсова робота\game_2\game_2\Source.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Python\Курсова робота\game_2\game_2\Source.cpp(7,18): warning C4101: 'enemy': unreferenced local variable
+     Creating library D:\Python\Курсова робота\game_2\x64\Release\game_2.lib and object D:\Python\Курсова робота\game_2\x64\Release\game_2.exp
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  game_2.vcxproj -> D:\Python\Курсова робота\game_2\x64\Release\game_2.dll
